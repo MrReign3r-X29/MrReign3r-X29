@@ -7,7 +7,7 @@
   <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" />
 </p>
 
-Hi guys, I'm **AlvinJumz/Moodalvin**. I am a developer Bot from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> **Indonesia, Jakarta**. I'm currently working on SA:MP Client Mobile Developer.
+Hi guys, I'm **AlvinJumz/Moodalvin**. I am a Developer Bot from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> **Indonesia, Manado**. I'm currently working on SA:MP Client Mobile Developer, Discord Bot Developer
 I have some works with **JavaScript**, **Node.js**, contact me if you have same interesting or some questions!
 </br>📫 How to reach me: <a href="https://vk.com/ztztopia">VK.com</a> (Discord: MOODALVIN#9000)
 
