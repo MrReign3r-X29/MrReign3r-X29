@@ -26,7 +26,7 @@ Hi,I'm jackgrizs  I'm Bot Developer 💎,And I'm Website Developer I'm from Indo
 -📫 Contact me at :  **jackgrizz23@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Language : **JavaScript**
-- </TC> I'm From TimesCord™ And Code7™
+- 🔱 </TC> I'm From TimesCord™ And Code7™
 
 **Languages and Tools:**  
 
