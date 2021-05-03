@@ -46,7 +46,7 @@ Hi,I'm jackgrizs  I'm Bot Developer 💎,And I'm Website Developer I'm from Indo
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=GrizzCoderX&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GrizzCoderX&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badriian24&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GrizzCoderX&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrizzCoderX&theme=tokyonight&hide=batchfile">
 
 
 
